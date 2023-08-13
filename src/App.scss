@@ -1,0 +1,11 @@
+@import './scss/mixin';
+@import './scss/reset';
+@import './scss/variable';
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital@1&display=swap');
+
+body{
+    background-color: $backgroundColor;
+}
+
